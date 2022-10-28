@@ -36,6 +36,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\fake labo\CSS Labo 1\Labo 5" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\fake labo\CSS Labo 1" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\fake labo\HTML" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +62,11 @@
       <workItem from="1665744736157" duration="187000" />
       <workItem from="1665828149874" duration="4865000" />
       <workItem from="1665833074782" duration="1763000" />
+      <workItem from="1666447806606" duration="109000" />
+      <workItem from="1666448897939" duration="1147000" />
+      <workItem from="1666710164567" duration="24000" />
+      <workItem from="1666943434388" duration="15000" />
+      <workItem from="1666948280175" duration="2622000" />
     </task>
     <servers />
   </component>
