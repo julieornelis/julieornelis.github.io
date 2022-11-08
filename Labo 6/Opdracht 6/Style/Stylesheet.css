@@ -1,0 +1,33 @@
+.body{
+    font-family: Verdana;
+    font-size: 1.1em;
+    background-color: silver;
+    color: cornflowerblue;
+}
+
+h1{
+    background-color: red;
+    height: 50px;
+}
+
+nav{
+    background-color: #8D99AE;
+}
+li a:hover{
+    border: 2px solid;
+    background-color: cadetblue;
+    width: 200px;
+    padding: 10px;
+
+}
+
+.stippeltjesrand{
+    border: 1px dotted ;
+}
+
+
+.checked::marker{
+      content: '☑'
+  }
+
+
