@@ -1,0 +1,54 @@
+
+.title h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin: 10px;
+}
+
+article {
+    margin: 5px;
+    padding: 5px;
+    background-color: #eeeeee;
+}
+
+article header {
+    font-weight: bold;
+    color: #444444;
+    text-decoration: underline;
+    font-size: 24px;
+}
+
+nav {
+    background-color: #444444;
+    padding: 5px;
+}
+
+nav a {
+    font-weight: bold;
+    font-size: 12px;
+    color: #56FF92;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #36FF62;
+    text-decoration: underline;
+}
+
+.figure {
+    height: 80px;
+    width: auto;
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+figure img {
+    display: none;
+}
+
+.titel {
+    color: #EDF2F4;
+    font-size: xxx-large;
+}
