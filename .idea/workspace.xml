@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,11 +54,11 @@
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Index" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 8" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 8\Coctail Bar" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 8\Coctail Bar\Images" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 7\Opdracht Nature Blog" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 7" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 5" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 4" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 3" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -101,6 +101,9 @@
       <workItem from="1667981059714" duration="274000" />
       <workItem from="1667981476634" duration="3910000" />
       <workItem from="1668765051916" duration="431000" />
+      <workItem from="1668766032394" duration="7345000" />
+      <workItem from="1668782283177" duration="5000" />
+      <workItem from="1668868923876" duration="1729000" />
     </task>
     <servers />
   </component>

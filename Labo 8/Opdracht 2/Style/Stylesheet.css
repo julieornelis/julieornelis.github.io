@@ -1,0 +1,15 @@
+
+.column {
+    float: left;
+    width: 40%;
+    margin: 5px;
+    padding: 10px;
+    height: 300px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    border-collapse: separate;
+    border-spacing: 10px;
+    display: inline-block;
+}
+
+
