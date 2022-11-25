@@ -16,6 +16,7 @@
 }
 
 .normal{
+    float:left;
     width: 70%;
     padding: 10px;
     height: 500px;
@@ -37,6 +38,7 @@ h2{
 
 .footer{
     display: block;
+    clear: both;
     font-family: Verdana;
     color: #007e7e;
     font-size: small;

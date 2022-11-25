@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -55,11 +55,11 @@
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Index" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 3\images" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie\images" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie\Images" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox\Style\fonts" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox\Style" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox\Images" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,6 +107,10 @@
       <workItem from="1668868923876" duration="1729000" />
       <workItem from="1668957994450" duration="1857000" />
       <workItem from="1669124080005" duration="49000" />
+      <workItem from="1669133990057" duration="278000" />
+      <workItem from="1669143756260" duration="44000" />
+      <workItem from="1669371368143" duration="3595000" />
+      <workItem from="1669375002075" duration="2095000" />
     </task>
     <servers />
   </component>
