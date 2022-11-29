@@ -1,0 +1,38 @@
+.header{
+    padding: 80px;
+    text-align: center;
+    background: darkseagreen;
+    color:white;
+}
+
+.header h1{
+    font-size: 40px;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side{
+    flex: 50%;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.main{
+    flex: 50%;
+    background-color: white;
+    padding: 20px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.footer{
+    padding: 20px;
+    text-align: left;
+    background: #ddd;
+}
+
