@@ -14,8 +14,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -31,23 +31,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/julie/OneDrive/Documenten/GitHub/julieornelis.github.io/Labo 3/images",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/julie/OneDrive/Documenten/GitHub/julieornelis.github.io&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 3\images" />
@@ -56,11 +56,11 @@
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Index" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 3\images" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie\images" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie\Images" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\CSS Labo 4\Demo 2\beginsituatie" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox\Style\fonts" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 9\Opdracht 1" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 9\opdracht airbus\Style" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 10\beginsituatie_bootstrap5" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 10\Demo-responsive-studenten\Bootstrap\style" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 10\Demo-responsive-studenten\Bootstrap" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,6 +113,15 @@
       <workItem from="1669371368143" duration="3595000" />
       <workItem from="1669375002075" duration="2352000" />
       <workItem from="1669711803934" duration="3499000" />
+      <workItem from="1669729564988" duration="50000" />
+      <workItem from="1669729668965" duration="2000" />
+      <workItem from="1670580842304" duration="831000" />
+      <workItem from="1670581705697" duration="1967000" />
+      <workItem from="1670584550235" duration="2637000" />
+      <workItem from="1670762984114" duration="1907000" />
+      <workItem from="1670764919132" duration="2215000" />
+      <workItem from="1670767671426" duration="120000" />
+      <workItem from="1670767917722" duration="1333000" />
     </task>
     <servers />
   </component>

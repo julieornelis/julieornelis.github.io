@@ -1,0 +1,15 @@
+.colorGray{
+    background-color: gray;
+}
+
+.colorLightGray{
+    background-color: lightgray;
+}
+
+div[class*='col']
+ /*.box{
+    height: 200px;
+    box-sizing: border-box;
+    border: white 10px solid;
+} */
+
