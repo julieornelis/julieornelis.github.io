@@ -1,0 +1,151 @@
+/** Volgende CSS gaan we ze geven **/
+.respimg {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+h1{
+    font-size: 2.5em;
+    text-decoration: black solid 2px;
+}
+
+h2{
+    font-size: 150%;
+    margin-bottom: auto;
+}
+
+p{
+    color: #d9534f;
+    border-top: #ce8483 solid 2px;
+    margin-top: 2px;
+    width: 350px;
+    font-weight: lighter;
+}
+
+
+.header{
+    height: 50px;
+    border-bottom: #ebe8e8 solid 1px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.headerImg{
+    height: 50px;
+    border-bottom: #ebe8e8 solid 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navigatie{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-content: center;
+}
+
+.itemNav{
+    color: #5b4746;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-right: #ebe8e8 solid 1px;
+    text-align: center;
+}
+
+.navigatie span:last-child{
+    border-right: 0;
+}
+span:hover{
+    border-bottom: #fff100 solid 2px;
+}
+
+.main{
+    display: block;
+    width: auto;
+    height: 500px;
+    background-image: url("../images/headerimage.png");
+    border-top: #ebe8e8 solid 1px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    text-shadow: #8d99ae 2px 2px;
+
+}
+
+.recipes{
+    display: block;
+    margin-top: 50px;
+    width: 50%;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-bottom: black solid 3px;
+}
+
+.recommendet {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    row-gap: 15px;
+    column-gap: 15px;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.picture{
+    display: block;
+    float: right;
+    width: 50%;
+    height: 270px;
+    margin-top: 10px;
+}
+
+.text{
+    display: block;
+    float: left;
+    width: 50%;
+    height: 270px;
+    margin-top: 10px;
+}
+
+.footerL{
+    display: inline-block;
+    float: right;
+    align-content: center;
+    text-align: right;
+    width: 49%;
+    height: 50px;
+
+}
+
+.footerR{
+    display: inline-block;
+    float: left;
+    align-content: center;
+    width: 50%;
+    background-color: black;
+    color: white;
+    heigth: 50px;
+}
+
+@media screen and(max-width: 1000px){
+    .headerImg{
+        width: 750px;
+    }
+    .navigation{
+        width: 750px;
+    }
+}
+

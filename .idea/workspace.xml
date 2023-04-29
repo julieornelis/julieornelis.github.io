@@ -14,13 +14,22 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="4975c1a7-19f9-47a8-b9ae-bb8c27497368" />
+        <option name="url" value="https://github.com/julieornelis/julieornelis.github.io.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +46,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/julie/OneDrive/Documenten/GitHub/julieornelis.github.io/Labo 11/Demo/Grid&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/julie/OneDrive/Documenten/GitHub/oefeningen&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -57,11 +66,11 @@
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Flexbox\Style" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo7\Bom" />
+      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 5\Opdracht" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 3\Opdrachten" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 11\Demo\Bootstrap" />
       <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 9\Opdracht 1" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 9\opdracht airbus\Style" />
-      <recent name="C:\Users\julie\OneDrive\Documenten\GitHub\julieornelis.github.io\Labo 10\beginsituatie_bootstrap5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -124,7 +133,22 @@
       <workItem from="1670767671426" duration="120000" />
       <workItem from="1670767917722" duration="1333000" />
       <workItem from="1671185398775" duration="2960000" />
-      <workItem from="1671188392376" duration="3331000" />
+      <workItem from="1671188392376" duration="3666000" />
+      <workItem from="1671192637336" duration="1323000" />
+      <workItem from="1671785442680" duration="1077000" />
+      <workItem from="1671799203383" duration="120000" />
+      <workItem from="1671799330827" duration="1049000" />
+      <workItem from="1673269395617" duration="3000" />
+      <workItem from="1673887071982" duration="1156000" />
+      <workItem from="1673892381236" duration="42000" />
+      <workItem from="1677848992997" duration="27000" />
+      <workItem from="1678453559526" duration="6523000" />
+      <workItem from="1679058749687" duration="3236000" />
+      <workItem from="1679063395729" duration="5093000" />
+      <workItem from="1682079006917" duration="8428000" />
+      <workItem from="1682089630588" duration="38000" />
+      <workItem from="1682763393334" duration="1232000" />
+      <workItem from="1682764646047" duration="15000" />
     </task>
     <servers />
   </component>

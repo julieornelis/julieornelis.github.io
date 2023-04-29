@@ -1,0 +1,33 @@
+article{
+    display: block;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: black 2px solid;
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-left: 10px;
+}
+
+p{
+    font-size: 1.25em;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.imgLinks{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+img{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: right;
+}
+
+
+
